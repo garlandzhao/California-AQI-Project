@@ -1,0 +1,1834 @@
+Year,County,AQI Median
+1981-12-31,Alameda,43.0
+1981-12-31,Butte,33.0
+1981-12-31,Colusa,35.0
+1981-12-31,Contra Costa,44.0
+1981-12-31,El Dorado,71.0
+1981-12-31,Fresno,79.0
+1981-12-31,Glenn,32.0
+1981-12-31,Imperial,46.0
+1981-12-31,Kern,74.0
+1981-12-31,Kings,34.0
+1981-12-31,Lake,28.0
+1981-12-31,Los Angeles,176.0
+1981-12-31,Marin,38.0
+1981-12-31,Mendocino,19.0
+1981-12-31,Mono,11.0
+1981-12-31,Monterey,37.0
+1981-12-31,Orange,100.0
+1981-12-31,Placer,40.0
+1981-12-31,Riverside,136.0
+1981-12-31,Sacramento,58.0
+1981-12-31,San Benito,37.0
+1981-12-31,San Bernardino,151.0
+1981-12-31,San Diego,116.0
+1981-12-31,San Francisco,38.0
+1981-12-31,San Joaquin,42.0
+1981-12-31,San Luis Obispo,42.0
+1981-12-31,San Mateo,28.0
+1981-12-31,Santa Barbara,58.0
+1981-12-31,Santa Clara,44.0
+1981-12-31,Santa Cruz,35.0
+1981-12-31,Shasta,35.0
+1981-12-31,Siskiyou,28.0
+1981-12-31,Solano,38.0
+1981-12-31,Sonoma,38.0
+1981-12-31,Stanislaus,54.0
+1981-12-31,Sutter,26.0
+1981-12-31,Tulare,57.0
+1981-12-31,Ventura,84.0
+1981-12-31,Yolo,37.0
+1982-12-31,Alameda,39.0
+1982-12-31,Butte,38.0
+1982-12-31,Colusa,43.0
+1982-12-31,Contra Costa,46.0
+1982-12-31,El Dorado,67.0
+1982-12-31,Fresno,77.0
+1982-12-31,Glenn,47.0
+1982-12-31,Imperial,37.0
+1982-12-31,Kern,68.0
+1982-12-31,Kings,42.0
+1982-12-31,Lake,32.0
+1982-12-31,Los Angeles,151.0
+1982-12-31,Marin,38.0
+1982-12-31,Mendocino,28.0
+1982-12-31,Mono,34.0
+1982-12-31,Monterey,34.0
+1982-12-31,Orange,79.0
+1982-12-31,Placer,47.0
+1982-12-31,Riverside,103.0
+1982-12-31,Sacramento,57.0
+1982-12-31,San Benito,37.0
+1982-12-31,San Bernardino,108.0
+1982-12-31,San Diego,90.0
+1982-12-31,San Francisco,39.0
+1982-12-31,San Joaquin,47.0
+1982-12-31,San Luis Obispo,39.0
+1982-12-31,San Mateo,28.0
+1982-12-31,Santa Barbara,57.0
+1982-12-31,Santa Clara,44.0
+1982-12-31,Santa Cruz,34.0
+1982-12-31,Shasta,37.0
+1982-12-31,Siskiyou,31.0
+1982-12-31,Solano,38.0
+1982-12-31,Sonoma,35.0
+1982-12-31,Stanislaus,47.0
+1982-12-31,Sutter,42.0
+1982-12-31,Tulare,57.0
+1982-12-31,Ventura,93.0
+1982-12-31,Yolo,35.0
+1983-12-31,Alameda,38.0
+1983-12-31,Butte,34.0
+1983-12-31,Colusa,44.0
+1983-12-31,Contra Costa,44.0
+1983-12-31,El Dorado,62.0
+1983-12-31,Fresno,61.0
+1983-12-31,Glenn,44.0
+1983-12-31,Imperial,34.0
+1983-12-31,Kern,61.0
+1983-12-31,Kings,48.0
+1983-12-31,Lake,31.0
+1983-12-31,Los Angeles,143.0
+1983-12-31,Marin,38.0
+1983-12-31,Mendocino,19.0
+1983-12-31,Mono,37.0
+1983-12-31,Monterey,37.0
+1983-12-31,Orange,87.0
+1983-12-31,Placer,54.0
+1983-12-31,Riverside,100.0
+1983-12-31,Sacramento,49.0
+1983-12-31,San Benito,35.0
+1983-12-31,San Bernardino,108.0
+1983-12-31,San Diego,90.0
+1983-12-31,San Francisco,41.0
+1983-12-31,San Joaquin,38.0
+1983-12-31,San Luis Obispo,38.0
+1983-12-31,San Mateo,30.0
+1983-12-31,Santa Barbara,50.0
+1983-12-31,Santa Clara,44.0
+1983-12-31,Santa Cruz,29.5
+1983-12-31,Shasta,44.0
+1983-12-31,Siskiyou,28.0
+1983-12-31,Solano,34.0
+1983-12-31,Sonoma,30.0
+1983-12-31,Stanislaus,47.0
+1983-12-31,Sutter,56.0
+1983-12-31,Tulare,49.0
+1983-12-31,Ventura,71.0
+1983-12-31,Yolo,33.0
+1984-12-31,Alameda,42.0
+1984-12-31,Butte,38.0
+1984-12-31,Colusa,67.0
+1984-12-31,Contra Costa,43.0
+1984-12-31,El Dorado,66.0
+1984-12-31,Fresno,87.0
+1984-12-31,Glenn,48.0
+1984-12-31,Imperial,23.0
+1984-12-31,Kern,61.0
+1984-12-31,Kings,43.0
+1984-12-31,Lake,31.0
+1984-12-31,Los Angeles,154.0
+1984-12-31,Marin,38.0
+1984-12-31,Mendocino,24.5
+1984-12-31,Mono,42.0
+1984-12-31,Monterey,37.0
+1984-12-31,Orange,89.0
+1984-12-31,Placer,44.0
+1984-12-31,Riverside,110.0
+1984-12-31,Sacramento,57.0
+1984-12-31,San Benito,35.0
+1984-12-31,San Bernardino,136.0
+1984-12-31,San Diego,101.0
+1984-12-31,San Francisco,45.0
+1984-12-31,San Joaquin,47.0
+1984-12-31,San Luis Obispo,38.0
+1984-12-31,San Mateo,33.0
+1984-12-31,Santa Barbara,57.0
+1984-12-31,Santa Clara,45.0
+1984-12-31,Santa Cruz,31.0
+1984-12-31,Shasta,35.0
+1984-12-31,Siskiyou,30.0
+1984-12-31,Solano,38.0
+1984-12-31,Sonoma,35.0
+1984-12-31,Stanislaus,47.0
+1984-12-31,Sutter,67.0
+1984-12-31,Tulare,57.0
+1984-12-31,Ventura,85.5
+1984-12-31,Yolo,35.0
+1985-12-31,Alameda,47.0
+1985-12-31,Butte,42.0
+1985-12-31,Colusa,44.0
+1985-12-31,Contra Costa,46.0
+1985-12-31,El Dorado,61.0
+1985-12-31,Fresno,100.0
+1985-12-31,Glenn,46.0
+1985-12-31,Imperial,46.0
+1985-12-31,Kern,89.0
+1985-12-31,Kings,44.0
+1985-12-31,Lake,29.0
+1985-12-31,Los Angeles,150.0
+1985-12-31,Marin,38.0
+1985-12-31,Mendocino,29.0
+1985-12-31,Mono,40.0
+1985-12-31,Monterey,38.0
+1985-12-31,Orange,79.0
+1985-12-31,Placer,43.0
+1985-12-31,Riverside,108.0
+1985-12-31,Sacramento,58.0
+1985-12-31,San Benito,37.0
+1985-12-31,San Bernardino,122.0
+1985-12-31,San Diego,103.0
+1985-12-31,San Francisco,45.0
+1985-12-31,San Joaquin,44.0
+1985-12-31,San Luis Obispo,43.0
+1985-12-31,San Mateo,34.0
+1985-12-31,Santa Barbara,57.0
+1985-12-31,Santa Clara,45.0
+1985-12-31,Santa Cruz,33.0
+1985-12-31,Shasta,35.0
+1985-12-31,Siskiyou,28.0
+1985-12-31,Solano,38.0
+1985-12-31,Sonoma,37.0
+1985-12-31,Stanislaus,49.0
+1985-12-31,Sutter,49.0
+1985-12-31,Tulare,74.0
+1985-12-31,Ventura,87.0
+1985-12-31,Yolo,37.0
+1986-12-31,Alameda,44.0
+1986-12-31,Butte,41.0
+1986-12-31,Colusa,49.0
+1986-12-31,Contra Costa,47.0
+1986-12-31,El Dorado,61.0
+1986-12-31,Fresno,93.0
+1986-12-31,Glenn,49.0
+1986-12-31,Imperial,37.0
+1986-12-31,Kern,89.0
+1986-12-31,Kings,39.0
+1986-12-31,Lake,29.0
+1986-12-31,Los Angeles,156.0
+1986-12-31,Marin,38.0
+1986-12-31,Mendocino,32.0
+1986-12-31,Mono,47.0
+1986-12-31,Monterey,37.0
+1986-12-31,Orange,89.0
+1986-12-31,Placer,44.0
+1986-12-31,Riverside,103.0
+1986-12-31,Sacramento,57.0
+1986-12-31,San Benito,37.0
+1986-12-31,San Bernardino,133.0
+1986-12-31,San Diego,101.0
+1986-12-31,San Francisco,39.0
+1986-12-31,San Joaquin,47.0
+1986-12-31,San Luis Obispo,40.0
+1986-12-31,San Mateo,38.0
+1986-12-31,Santa Barbara,71.0
+1986-12-31,Santa Clara,46.0
+1986-12-31,Santa Cruz,28.0
+1986-12-31,Shasta,44.0
+1986-12-31,Siskiyou,37.0
+1986-12-31,Solano,38.0
+1986-12-31,Sonoma,33.0
+1986-12-31,Stanislaus,47.0
+1986-12-31,Sutter,48.0
+1986-12-31,Tulare,79.0
+1986-12-31,Ventura,101.0
+1986-12-31,Yolo,39.0
+1987-12-31,Alameda,40.0
+1987-12-31,Butte,47.0
+1987-12-31,Colusa,67.0
+1987-12-31,Contra Costa,47.0
+1987-12-31,El Dorado,63.0
+1987-12-31,Fresno,95.0
+1987-12-31,Glenn,60.0
+1987-12-31,Imperial,37.0
+1987-12-31,Kern,79.0
+1987-12-31,Kings,46.5
+1987-12-31,Lake,30.0
+1987-12-31,Los Angeles,150.0
+1987-12-31,Marin,38.0
+1987-12-31,Mendocino,33.0
+1987-12-31,Mono,46.0
+1987-12-31,Monterey,37.0
+1987-12-31,Orange,79.0
+1987-12-31,Placer,48.0
+1987-12-31,Riverside,105.0
+1987-12-31,Sacramento,67.0
+1987-12-31,San Benito,47.0
+1987-12-31,San Bernardino,122.0
+1987-12-31,San Diego,100.0
+1987-12-31,San Francisco,38.0
+1987-12-31,San Joaquin,54.0
+1987-12-31,San Luis Obispo,40.0
+1987-12-31,San Mateo,37.0
+1987-12-31,Santa Barbara,64.0
+1987-12-31,Santa Clara,46.0
+1987-12-31,Santa Cruz,32.0
+1987-12-31,Shasta,38.0
+1987-12-31,Siskiyou,42.0
+1987-12-31,Solano,42.0
+1987-12-31,Sonoma,37.0
+1987-12-31,Stanislaus,61.0
+1987-12-31,Sutter,48.0
+1987-12-31,Tulare,87.0
+1987-12-31,Ventura,87.0
+1987-12-31,Yolo,43.0
+1988-12-31,Alameda,47.0
+1988-12-31,Butte,44.0
+1988-12-31,Colusa,25.0
+1988-12-31,Contra Costa,47.0
+1988-12-31,El Dorado,58.5
+1988-12-31,Fresno,100.0
+1988-12-31,Glenn,30.0
+1988-12-31,Imperial,44.0
+1988-12-31,Kern,101.0
+1988-12-31,Kings,51.0
+1988-12-31,Lake,26.0
+1988-12-31,Los Angeles,167.0
+1988-12-31,Marin,28.0
+1988-12-31,Mendocino,31.0
+1988-12-31,Mono,46.0
+1988-12-31,Monterey,30.0
+1988-12-31,Orange,89.0
+1988-12-31,Placer,51.0
+1988-12-31,Riverside,119.0
+1988-12-31,Sacramento,68.0
+1988-12-31,San Benito,44.0
+1988-12-31,San Bernardino,126.0
+1988-12-31,San Diego,113.0
+1988-12-31,San Francisco,38.0
+1988-12-31,San Joaquin,48.0
+1988-12-31,San Luis Obispo,46.0
+1988-12-31,San Mateo,38.0
+1988-12-31,Santa Barbara,74.5
+1988-12-31,Santa Clara,46.0
+1988-12-31,Santa Cruz,33.0
+1988-12-31,Shasta,38.0
+1988-12-31,Siskiyou,34.5
+1988-12-31,Solano,43.0
+1988-12-31,Sonoma,37.0
+1988-12-31,Stanislaus,58.0
+1988-12-31,Sutter,44.0
+1988-12-31,Tulare,87.0
+1988-12-31,Ventura,93.0
+1988-12-31,Yolo,39.0
+1989-12-31,Alameda,44.0
+1989-12-31,Butte,44.0
+1989-12-31,Colusa,27.0
+1989-12-31,Contra Costa,47.0
+1989-12-31,El Dorado,64.0
+1989-12-31,Fresno,100.0
+1989-12-31,Glenn,23.0
+1989-12-31,Imperial,38.0
+1989-12-31,Kern,100.0
+1989-12-31,Kings,49.0
+1989-12-31,Lake,28.0
+1989-12-31,Los Angeles,150.0
+1989-12-31,Marin,38.0
+1989-12-31,Mendocino,26.0
+1989-12-31,Mono,37.0
+1989-12-31,Monterey,38.0
+1989-12-31,Orange,87.0
+1989-12-31,Placer,48.0
+1989-12-31,Riverside,126.0
+1989-12-31,Sacramento,77.0
+1989-12-31,San Benito,44.0
+1989-12-31,San Bernardino,143.0
+1989-12-31,San Diego,110.0
+1989-12-31,San Francisco,38.0
+1989-12-31,San Joaquin,47.0
+1989-12-31,San Luis Obispo,47.0
+1989-12-31,San Mateo,38.0
+1989-12-31,Santa Barbara,76.0
+1989-12-31,Santa Clara,49.0
+1989-12-31,Santa Cruz,34.0
+1989-12-31,Shasta,40.0
+1989-12-31,Siskiyou,35.0
+1989-12-31,Solano,39.0
+1989-12-31,Sonoma,35.0
+1989-12-31,Stanislaus,61.0
+1989-12-31,Sutter,43.0
+1989-12-31,Tulare,87.0
+1989-12-31,Ventura,84.0
+1989-12-31,Yolo,37.0
+1990-12-31,Alameda,38.0
+1990-12-31,Butte,40.0
+1990-12-31,Colusa,31.0
+1990-12-31,Contra Costa,44.0
+1990-12-31,El Dorado,51.0
+1990-12-31,Fresno,84.0
+1990-12-31,Glenn,33.0
+1990-12-31,Imperial,38.0
+1990-12-31,Kern,100.0
+1990-12-31,Kings,46.0
+1990-12-31,Lake,27.0
+1990-12-31,Los Angeles,116.0
+1990-12-31,Marin,32.0
+1990-12-31,Mendocino,19.0
+1990-12-31,Mono,45.0
+1990-12-31,Monterey,39.0
+1990-12-31,Orange,79.0
+1990-12-31,Placer,51.0
+1990-12-31,Riverside,103.0
+1990-12-31,Sacramento,67.0
+1990-12-31,San Benito,44.0
+1990-12-31,San Bernardino,119.0
+1990-12-31,San Diego,103.0
+1990-12-31,San Francisco,32.0
+1990-12-31,San Joaquin,47.0
+1990-12-31,San Luis Obispo,44.0
+1990-12-31,San Mateo,38.0
+1990-12-31,Santa Barbara,68.0
+1990-12-31,Santa Clara,47.0
+1990-12-31,Santa Cruz,32.0
+1990-12-31,Shasta,43.0
+1990-12-31,Siskiyou,32.0
+1990-12-31,Solano,38.0
+1990-12-31,Sonoma,35.0
+1990-12-31,Stanislaus,57.0
+1990-12-31,Sutter,37.0
+1990-12-31,Tulare,84.0
+1990-12-31,Ventura,74.0
+1990-12-31,Yolo,40.0
+1991-12-31,Alameda,40.0
+1991-12-31,Butte,44.0
+1991-12-31,Colusa,34.5
+1991-12-31,Contra Costa,44.0
+1991-12-31,El Dorado,51.0
+1991-12-31,Fresno,79.0
+1991-12-31,Glenn,37.0
+1991-12-31,Imperial,42.0
+1991-12-31,Kern,89.0
+1991-12-31,Kings,48.0
+1991-12-31,Lake,34.0
+1991-12-31,Los Angeles,116.0
+1991-12-31,Marin,38.0
+1991-12-31,Mendocino,22.0
+1991-12-31,Mono,35.0
+1991-12-31,Monterey,44.0
+1991-12-31,Orange,74.0
+1991-12-31,Placer,44.0
+1991-12-31,Riverside,105.0
+1991-12-31,Sacramento,71.0
+1991-12-31,San Benito,45.0
+1991-12-31,San Bernardino,116.0
+1991-12-31,San Diego,89.0
+1991-12-31,San Francisco,38.0
+1991-12-31,San Joaquin,48.0
+1991-12-31,San Luis Obispo,46.0
+1991-12-31,San Mateo,38.0
+1991-12-31,Santa Barbara,71.0
+1991-12-31,Santa Clara,47.0
+1991-12-31,Santa Cruz,34.0
+1991-12-31,Shasta,43.0
+1991-12-31,Siskiyou,19.0
+1991-12-31,Solano,38.0
+1991-12-31,Sonoma,37.0
+1991-12-31,Stanislaus,51.0
+1991-12-31,Sutter,40.0
+1991-12-31,Tulare,70.0
+1991-12-31,Ventura,89.0
+1991-12-31,Yolo,39.0
+1992-12-31,Alameda,38.0
+1992-12-31,Butte,38.0
+1992-12-31,Colusa,37.0
+1992-12-31,Contra Costa,40.0
+1992-12-31,El Dorado,59.0
+1992-12-31,Fresno,68.0
+1992-12-31,Glenn,44.0
+1992-12-31,Imperial,53.0
+1992-12-31,Kern,84.0
+1992-12-31,Kings,38.0
+1992-12-31,Lake,28.0
+1992-12-31,Los Angeles,122.0
+1992-12-31,Marin,32.0
+1992-12-31,Mendocino,20.5
+1992-12-31,Mono,44.0
+1992-12-31,Monterey,38.0
+1992-12-31,Orange,68.0
+1992-12-31,Placer,47.0
+1992-12-31,Riverside,105.0
+1992-12-31,Sacramento,57.0
+1992-12-31,San Benito,40.0
+1992-12-31,San Bernardino,126.0
+1992-12-31,San Diego,89.0
+1992-12-31,San Francisco,32.5
+1992-12-31,San Joaquin,47.0
+1992-12-31,San Luis Obispo,42.0
+1992-12-31,San Mateo,33.0
+1992-12-31,Santa Barbara,63.5
+1992-12-31,Santa Clara,47.0
+1992-12-31,Santa Cruz,32.0
+1992-12-31,Shasta,41.0
+1992-12-31,Siskiyou,32.5
+1992-12-31,Solano,37.0
+1992-12-31,Sonoma,37.0
+1992-12-31,Stanislaus,47.0
+1992-12-31,Sutter,46.5
+1992-12-31,Tulare,66.5
+1992-12-31,Ventura,67.0
+1992-12-31,Yolo,40.0
+1993-12-31,Alameda,38.0
+1993-12-31,Butte,38.0
+1993-12-31,Colusa,37.0
+1993-12-31,Contra Costa,43.0
+1993-12-31,El Dorado,52.0
+1993-12-31,Fresno,68.0
+1993-12-31,Glenn,37.0
+1993-12-31,Imperial,62.0
+1993-12-31,Kern,89.0
+1993-12-31,Kings,40.0
+1993-12-31,Lake,29.0
+1993-12-31,Los Angeles,108.0
+1993-12-31,Marin,31.0
+1993-12-31,Mendocino,28.0
+1993-12-31,Mono,46.0
+1993-12-31,Monterey,35.0
+1993-12-31,Orange,67.0
+1993-12-31,Placer,47.0
+1993-12-31,Riverside,100.0
+1993-12-31,Sacramento,49.0
+1993-12-31,San Benito,42.0
+1993-12-31,San Bernardino,119.0
+1993-12-31,San Diego,80.0
+1993-12-31,San Francisco,37.0
+1993-12-31,San Joaquin,46.0
+1993-12-31,San Luis Obispo,40.0
+1993-12-31,San Mateo,32.0
+1993-12-31,Santa Barbara,54.0
+1993-12-31,Santa Clara,44.0
+1993-12-31,Santa Cruz,31.0
+1993-12-31,Shasta,39.0
+1993-12-31,Siskiyou,30.0
+1993-12-31,Solano,38.0
+1993-12-31,Sonoma,37.0
+1993-12-31,Stanislaus,47.0
+1993-12-31,Sutter,43.0
+1993-12-31,Tulare,67.0
+1993-12-31,Ventura,64.0
+1993-12-31,Yolo,38.0
+1994-12-31,Alameda,39.0
+1994-12-31,Butte,45.0
+1994-12-31,Colusa,43.0
+1994-12-31,Contra Costa,41.0
+1994-12-31,El Dorado,58.0
+1994-12-31,Fresno,64.0
+1994-12-31,Glenn,40.0
+1994-12-31,Imperial,87.0
+1994-12-31,Kern,81.0
+1994-12-31,Kings,47.0
+1994-12-31,Lake,39.0
+1994-12-31,Los Angeles,107.0
+1994-12-31,Marin,31.0
+1994-12-31,Mendocino,31.0
+1994-12-31,Mono,44.0
+1994-12-31,Monterey,35.0
+1994-12-31,Orange,66.0
+1994-12-31,Placer,50.0
+1994-12-31,Riverside,97.0
+1994-12-31,Sacramento,54.0
+1994-12-31,San Benito,42.0
+1994-12-31,San Bernardino,108.0
+1994-12-31,San Diego,79.0
+1994-12-31,San Francisco,33.0
+1994-12-31,San Joaquin,46.0
+1994-12-31,San Luis Obispo,43.0
+1994-12-31,San Mateo,33.0
+1994-12-31,Santa Barbara,64.0
+1994-12-31,Santa Clara,44.0
+1994-12-31,Santa Cruz,35.0
+1994-12-31,Shasta,43.0
+1994-12-31,Siskiyou,35.0
+1994-12-31,Solano,36.0
+1994-12-31,Sonoma,37.0
+1994-12-31,Stanislaus,47.0
+1994-12-31,Sutter,49.0
+1994-12-31,Tulare,67.0
+1994-12-31,Ventura,71.0
+1994-12-31,Yolo,40.0
+1995-12-31,Alameda,38.0
+1995-12-31,Butte,39.0
+1995-12-31,Colusa,40.0
+1995-12-31,Contra Costa,39.0
+1995-12-31,El Dorado,50.0
+1995-12-31,Fresno,68.0
+1995-12-31,Glenn,44.0
+1995-12-31,Imperial,76.0
+1995-12-31,Kern,86.0
+1995-12-31,Kings,46.0
+1995-12-31,Lake,28.0
+1995-12-31,Los Angeles,107.0
+1995-12-31,Marin,29.0
+1995-12-31,Mendocino,31.0
+1995-12-31,Mono,42.0
+1995-12-31,Monterey,35.0
+1995-12-31,Orange,61.0
+1995-12-31,Placer,46.0
+1995-12-31,Riverside,93.0
+1995-12-31,Sacramento,50.0
+1995-12-31,San Benito,41.5
+1995-12-31,San Bernardino,103.0
+1995-12-31,San Diego,77.0
+1995-12-31,San Francisco,34.0
+1995-12-31,San Joaquin,42.0
+1995-12-31,San Luis Obispo,42.0
+1995-12-31,San Mateo,35.0
+1995-12-31,Santa Barbara,54.0
+1995-12-31,Santa Clara,43.0
+1995-12-31,Santa Cruz,36.0
+1995-12-31,Shasta,43.0
+1995-12-31,Siskiyou,30.0
+1995-12-31,Solano,36.0
+1995-12-31,Sonoma,37.0
+1995-12-31,Stanislaus,46.0
+1995-12-31,Sutter,44.0
+1995-12-31,Tulare,74.0
+1995-12-31,Ventura,67.0
+1995-12-31,Yolo,37.0
+1996-12-31,Alameda,40.0
+1996-12-31,Butte,38.0
+1996-12-31,Colusa,38.0
+1996-12-31,Contra Costa,40.0
+1996-12-31,El Dorado,49.0
+1996-12-31,Fresno,61.0
+1996-12-31,Glenn,40.0
+1996-12-31,Imperial,74.0
+1996-12-31,Kern,74.0
+1996-12-31,Kings,67.0
+1996-12-31,Lake,28.0
+1996-12-31,Los Angeles,95.5
+1996-12-31,Marin,31.0
+1996-12-31,Mendocino,28.0
+1996-12-31,Mono,42.0
+1996-12-31,Monterey,39.0
+1996-12-31,Orange,53.0
+1996-12-31,Placer,44.0
+1996-12-31,Riverside,87.0
+1996-12-31,Sacramento,49.0
+1996-12-31,San Benito,43.0
+1996-12-31,San Bernardino,100.0
+1996-12-31,San Diego,68.0
+1996-12-31,San Francisco,35.0
+1996-12-31,San Joaquin,44.0
+1996-12-31,San Luis Obispo,43.0
+1996-12-31,San Mateo,34.0
+1996-12-31,Santa Barbara,54.0
+1996-12-31,Santa Clara,43.0
+1996-12-31,Santa Cruz,36.0
+1996-12-31,Shasta,43.0
+1996-12-31,Siskiyou,29.0
+1996-12-31,Solano,38.5
+1996-12-31,Sonoma,37.0
+1996-12-31,Stanislaus,46.0
+1996-12-31,Sutter,44.5
+1996-12-31,Tulare,56.0
+1996-12-31,Ventura,67.0
+1996-12-31,Yolo,37.5
+1997-12-31,Alameda,38.0
+1997-12-31,Butte,34.0
+1997-12-31,Colusa,39.0
+1997-12-31,Contra Costa,37.0
+1997-12-31,El Dorado,48.0
+1997-12-31,Fresno,71.0
+1997-12-31,Glenn,38.0
+1997-12-31,Imperial,87.0
+1997-12-31,Kern,74.0
+1997-12-31,Kings,56.0
+1997-12-31,Lake,28.0
+1997-12-31,Los Angeles,95.0
+1997-12-31,Marin,28.0
+1997-12-31,Mendocino,29.0
+1997-12-31,Mono,38.0
+1997-12-31,Monterey,35.0
+1997-12-31,Orange,51.0
+1997-12-31,Placer,43.0
+1997-12-31,Riverside,89.0
+1997-12-31,Sacramento,44.0
+1997-12-31,San Benito,44.0
+1997-12-31,San Bernardino,96.0
+1997-12-31,San Diego,65.0
+1997-12-31,San Francisco,32.0
+1997-12-31,San Joaquin,41.0
+1997-12-31,San Luis Obispo,44.0
+1997-12-31,San Mateo,31.0
+1997-12-31,Santa Barbara,51.0
+1997-12-31,Santa Clara,42.0
+1997-12-31,Santa Cruz,35.0
+1997-12-31,Shasta,42.0
+1997-12-31,Siskiyou,37.0
+1997-12-31,Solano,36.0
+1997-12-31,Sonoma,35.0
+1997-12-31,Stanislaus,46.0
+1997-12-31,Sutter,42.0
+1997-12-31,Tulare,67.0
+1997-12-31,Ventura,71.0
+1997-12-31,Yolo,37.0
+1998-12-31,Alameda,38.0
+1998-12-31,Butte,36.0
+1998-12-31,Colusa,37.0
+1998-12-31,Contra Costa,37.0
+1998-12-31,El Dorado,48.0
+1998-12-31,Fresno,64.0
+1998-12-31,Glenn,41.0
+1998-12-31,Imperial,76.0
+1998-12-31,Kern,67.0
+1998-12-31,Kings,46.0
+1998-12-31,Lake,28.0
+1998-12-31,Los Angeles,77.0
+1998-12-31,Marin,30.0
+1998-12-31,Mendocino,31.0
+1998-12-31,Mono,20.0
+1998-12-31,Monterey,37.0
+1998-12-31,Orange,50.0
+1998-12-31,Placer,43.0
+1998-12-31,Riverside,77.0
+1998-12-31,Sacramento,45.0
+1998-12-31,San Benito,42.0
+1998-12-31,San Bernardino,87.0
+1998-12-31,San Diego,61.0
+1998-12-31,San Francisco,33.0
+1998-12-31,San Joaquin,41.0
+1998-12-31,San Luis Obispo,67.0
+1998-12-31,San Mateo,33.0
+1998-12-31,Santa Barbara,49.0
+1998-12-31,Santa Clara,42.0
+1998-12-31,Santa Cruz,36.0
+1998-12-31,Shasta,46.0
+1998-12-31,Siskiyou,35.0
+1998-12-31,Solano,36.0
+1998-12-31,Sonoma,37.0
+1998-12-31,Stanislaus,46.0
+1998-12-31,Sutter,43.0
+1998-12-31,Tulare,51.0
+1998-12-31,Ventura,50.0
+1998-12-31,Yolo,37.0
+1999-12-31,Alameda,41.0
+1999-12-31,Butte,44.0
+1999-12-31,Colusa,44.0
+1999-12-31,Contra Costa,41.0
+1999-12-31,El Dorado,58.0
+1999-12-31,Fresno,108.0
+1999-12-31,Glenn,44.0
+1999-12-31,Imperial,77.0
+1999-12-31,Kern,108.0
+1999-12-31,Kings,63.5
+1999-12-31,Lake,32.0
+1999-12-31,Los Angeles,97.0
+1999-12-31,Marin,32.0
+1999-12-31,Mendocino,33.0
+1999-12-31,Mono,11.0
+1999-12-31,Monterey,38.0
+1999-12-31,Orange,63.0
+1999-12-31,Placer,57.0
+1999-12-31,Riverside,95.0
+1999-12-31,Sacramento,58.0
+1999-12-31,San Benito,45.0
+1999-12-31,San Bernardino,101.0
+1999-12-31,San Diego,80.0
+1999-12-31,San Francisco,37.0
+1999-12-31,San Joaquin,46.0
+1999-12-31,San Luis Obispo,45.0
+1999-12-31,San Mateo,32.0
+1999-12-31,Santa Barbara,51.0
+1999-12-31,Santa Clara,44.0
+1999-12-31,Santa Cruz,36.0
+1999-12-31,Shasta,50.0
+1999-12-31,Siskiyou,33.0
+1999-12-31,Solano,40.0
+1999-12-31,Sonoma,38.0
+1999-12-31,Stanislaus,49.0
+1999-12-31,Sutter,49.0
+1999-12-31,Tulare,97.0
+1999-12-31,Ventura,61.0
+1999-12-31,Yolo,44.0
+2000-12-31,Alameda,39.0
+2000-12-31,Butte,44.0
+2000-12-31,Colusa,36.0
+2000-12-31,Contra Costa,43.0
+2000-12-31,El Dorado,50.0
+2000-12-31,Fresno,112.0
+2000-12-31,Glenn,40.0
+2000-12-31,Imperial,58.5
+2000-12-31,Kern,110.5
+2000-12-31,Kings,70.0
+2000-12-31,Lake,34.0
+2000-12-31,Los Angeles,98.5
+2000-12-31,Marin,28.0
+2000-12-31,Mendocino,30.0
+2000-12-31,Mono,11.0
+2000-12-31,Monterey,36.0
+2000-12-31,Orange,62.0
+2000-12-31,Placer,46.0
+2000-12-31,Riverside,103.0
+2000-12-31,Sacramento,55.0
+2000-12-31,San Benito,40.0
+2000-12-31,San Bernardino,94.5
+2000-12-31,San Diego,74.0
+2000-12-31,San Francisco,36.0
+2000-12-31,San Joaquin,45.0
+2000-12-31,San Luis Obispo,41.0
+2000-12-31,San Mateo,33.0
+2000-12-31,Santa Barbara,48.0
+2000-12-31,Santa Clara,44.0
+2000-12-31,Santa Cruz,36.0
+2000-12-31,Shasta,44.0
+2000-12-31,Siskiyou,35.5
+2000-12-31,Solano,37.0
+2000-12-31,Sonoma,37.0
+2000-12-31,Stanislaus,49.0
+2000-12-31,Sutter,43.0
+2000-12-31,Tulare,85.0
+2000-12-31,Ventura,59.0
+2000-12-31,Yolo,40.0
+2001-12-31,Alameda,40.0
+2001-12-31,Butte,56.0
+2001-12-31,Colusa,42.0
+2001-12-31,Contra Costa,43.0
+2001-12-31,El Dorado,58.0
+2001-12-31,Fresno,119.0
+2001-12-31,Glenn,43.0
+2001-12-31,Imperial,65.0
+2001-12-31,Kern,108.0
+2001-12-31,Kings,56.0
+2001-12-31,Lake,37.0
+2001-12-31,Los Angeles,101.0
+2001-12-31,Marin,30.0
+2001-12-31,Mendocino,31.0
+2001-12-31,Mono,36.0
+2001-12-31,Monterey,34.0
+2001-12-31,Orange,64.0
+2001-12-31,Placer,46.0
+2001-12-31,Riverside,110.0
+2001-12-31,Sacramento,59.0
+2001-12-31,San Benito,42.0
+2001-12-31,San Bernardino,100.0
+2001-12-31,San Diego,77.0
+2001-12-31,San Francisco,36.0
+2001-12-31,San Joaquin,44.0
+2001-12-31,San Luis Obispo,44.0
+2001-12-31,San Mateo,32.0
+2001-12-31,Santa Barbara,48.0
+2001-12-31,Santa Clara,46.0
+2001-12-31,Santa Cruz,35.0
+2001-12-31,Shasta,44.0
+2001-12-31,Siskiyou,12.5
+2001-12-31,Solano,37.0
+2001-12-31,Sonoma,36.0
+2001-12-31,Stanislaus,50.0
+2001-12-31,Sutter,44.0
+2001-12-31,Tulare,95.0
+2001-12-31,Ventura,61.0
+2001-12-31,Yolo,40.0
+2002-12-31,Alameda,40.0
+2002-12-31,Butte,64.0
+2002-12-31,Colusa,41.0
+2002-12-31,Contra Costa,43.0
+2002-12-31,El Dorado,54.0
+2002-12-31,Fresno,126.0
+2002-12-31,Glenn,43.0
+2002-12-31,Imperial,67.0
+2002-12-31,Kern,125.0
+2002-12-31,Kings,64.0
+2002-12-31,Lake,37.0
+2002-12-31,Los Angeles,99.0
+2002-12-31,Marin,30.0
+2002-12-31,Mendocino,32.0
+2002-12-31,Mono,22.0
+2002-12-31,Monterey,37.0
+2002-12-31,Orange,63.0
+2002-12-31,Placer,49.0
+2002-12-31,Riverside,101.0
+2002-12-31,Sacramento,74.0
+2002-12-31,San Benito,42.0
+2002-12-31,San Bernardino,90.0
+2002-12-31,San Diego,74.0
+2002-12-31,San Francisco,35.0
+2002-12-31,San Joaquin,46.0
+2002-12-31,San Luis Obispo,44.0
+2002-12-31,San Mateo,35.0
+2002-12-31,Santa Barbara,49.0
+2002-12-31,Santa Clara,47.0
+2002-12-31,Santa Cruz,36.0
+2002-12-31,Shasta,44.0
+2002-12-31,Siskiyou,33.0
+2002-12-31,Solano,39.0
+2002-12-31,Sonoma,37.0
+2002-12-31,Stanislaus,53.0
+2002-12-31,Sutter,45.0
+2002-12-31,Tulare,108.0
+2002-12-31,Ventura,61.0
+2002-12-31,Yolo,42.0
+2003-12-31,Alameda,39.0
+2003-12-31,Butte,58.0
+2003-12-31,Colusa,38.0
+2003-12-31,Contra Costa,44.0
+2003-12-31,El Dorado,54.0
+2003-12-31,Fresno,107.0
+2003-12-31,Glenn,40.0
+2003-12-31,Imperial,61.0
+2003-12-31,Kern,118.0
+2003-12-31,Kings,55.5
+2003-12-31,Lake,37.0
+2003-12-31,Los Angeles,95.0
+2003-12-31,Marin,28.0
+2003-12-31,Mendocino,33.0
+2003-12-31,Mono,48.0
+2003-12-31,Monterey,36.0
+2003-12-31,Orange,63.0
+2003-12-31,Placer,50.0
+2003-12-31,Riverside,97.0
+2003-12-31,Sacramento,67.0
+2003-12-31,San Benito,43.0
+2003-12-31,San Bernardino,91.0
+2003-12-31,San Diego,68.0
+2003-12-31,San Francisco,37.0
+2003-12-31,San Joaquin,44.0
+2003-12-31,San Luis Obispo,44.0
+2003-12-31,San Mateo,33.0
+2003-12-31,Santa Barbara,48.0
+2003-12-31,Santa Clara,47.0
+2003-12-31,Santa Cruz,35.0
+2003-12-31,Shasta,43.0
+2003-12-31,Siskiyou,39.0
+2003-12-31,Solano,38.0
+2003-12-31,Sonoma,37.0
+2003-12-31,Stanislaus,49.0
+2003-12-31,Sutter,42.0
+2003-12-31,Tulare,101.0
+2003-12-31,Ventura,54.0
+2003-12-31,Yolo,44.0
+2004-12-31,Alameda,43.0
+2004-12-31,Butte,50.5
+2004-12-31,Colusa,40.0
+2004-12-31,Contra Costa,40.0
+2004-12-31,El Dorado,51.0
+2004-12-31,Fresno,86.0
+2004-12-31,Glenn,37.0
+2004-12-31,Imperial,60.5
+2004-12-31,Kern,112.5
+2004-12-31,Kings,55.0
+2004-12-31,Lake,35.0
+2004-12-31,Los Angeles,90.0
+2004-12-31,Marin,29.0
+2004-12-31,Mendocino,32.0
+2004-12-31,Mono,48.0
+2004-12-31,Monterey,34.5
+2004-12-31,Orange,67.0
+2004-12-31,Placer,56.0
+2004-12-31,Riverside,97.5
+2004-12-31,Sacramento,62.5
+2004-12-31,San Benito,41.0
+2004-12-31,San Bernardino,90.0
+2004-12-31,San Diego,67.0
+2004-12-31,San Francisco,40.5
+2004-12-31,San Joaquin,43.0
+2004-12-31,San Luis Obispo,41.0
+2004-12-31,San Mateo,40.0
+2004-12-31,Santa Barbara,48.0
+2004-12-31,Santa Clara,46.0
+2004-12-31,Santa Cruz,36.0
+2004-12-31,Shasta,44.0
+2004-12-31,Siskiyou,33.0
+2004-12-31,Solano,45.0
+2004-12-31,Sonoma,33.0
+2004-12-31,Stanislaus,47.0
+2004-12-31,Sutter,45.5
+2004-12-31,Tulare,95.5
+2004-12-31,Ventura,56.5
+2004-12-31,Yolo,44.0
+2005-12-31,Alameda,43.0
+2005-12-31,Butte,47.0
+2005-12-31,Colusa,44.0
+2005-12-31,Contra Costa,40.0
+2005-12-31,El Dorado,43.0
+2005-12-31,Fresno,72.0
+2005-12-31,Glenn,37.0
+2005-12-31,Imperial,61.0
+2005-12-31,Kern,93.0
+2005-12-31,Kings,48.0
+2005-12-31,Lake,35.0
+2005-12-31,Los Angeles,82.0
+2005-12-31,Marin,29.0
+2005-12-31,Mendocino,32.0
+2005-12-31,Mono,17.0
+2005-12-31,Monterey,35.0
+2005-12-31,Orange,57.0
+2005-12-31,Placer,56.0
+2005-12-31,Riverside,90.0
+2005-12-31,Sacramento,59.0
+2005-12-31,San Benito,40.0
+2005-12-31,San Bernardino,82.0
+2005-12-31,San Diego,67.0
+2005-12-31,San Francisco,37.0
+2005-12-31,San Joaquin,40.0
+2005-12-31,San Luis Obispo,41.0
+2005-12-31,San Mateo,42.0
+2005-12-31,Santa Barbara,47.0
+2005-12-31,Santa Clara,46.0
+2005-12-31,Santa Cruz,34.0
+2005-12-31,Shasta,43.0
+2005-12-31,Siskiyou,34.5
+2005-12-31,Solano,41.0
+2005-12-31,Sonoma,31.0
+2005-12-31,Stanislaus,42.0
+2005-12-31,Sutter,48.0
+2005-12-31,Tulare,84.0
+2005-12-31,Ventura,50.0
+2005-12-31,Yolo,44.0
+2006-12-31,Alameda,45.0
+2006-12-31,Butte,56.0
+2006-12-31,Colusa,45.0
+2006-12-31,Contra Costa,41.0
+2006-12-31,El Dorado,43.0
+2006-12-31,Fresno,80.0
+2006-12-31,Glenn,41.0
+2006-12-31,Imperial,62.0
+2006-12-31,Kern,100.0
+2006-12-31,Kings,52.0
+2006-12-31,Lake,35.0
+2006-12-31,Los Angeles,82.0
+2006-12-31,Marin,30.0
+2006-12-31,Mendocino,34.0
+2006-12-31,Mono,15.0
+2006-12-31,Monterey,37.0
+2006-12-31,Orange,56.0
+2006-12-31,Placer,60.0
+2006-12-31,Riverside,84.0
+2006-12-31,Sacramento,64.0
+2006-12-31,San Benito,42.0
+2006-12-31,San Bernardino,80.0
+2006-12-31,San Diego,70.0
+2006-12-31,San Francisco,37.0
+2006-12-31,San Joaquin,44.0
+2006-12-31,San Luis Obispo,46.0
+2006-12-31,San Mateo,39.0
+2006-12-31,Santa Barbara,48.0
+2006-12-31,Santa Clara,47.0
+2006-12-31,Santa Cruz,36.0
+2006-12-31,Shasta,45.0
+2006-12-31,Siskiyou,36.0
+2006-12-31,Solano,47.0
+2006-12-31,Sonoma,33.0
+2006-12-31,Stanislaus,44.0
+2006-12-31,Sutter,54.0
+2006-12-31,Tulare,88.0
+2006-12-31,Ventura,48.0
+2006-12-31,Yolo,44.0
+2007-12-31,Alameda,38.0
+2007-12-31,Butte,49.0
+2007-12-31,Colusa,41.0
+2007-12-31,Contra Costa,40.0
+2007-12-31,El Dorado,44.0
+2007-12-31,Fresno,87.0
+2007-12-31,Glenn,44.0
+2007-12-31,Imperial,58.0
+2007-12-31,Kern,101.0
+2007-12-31,Kings,77.0
+2007-12-31,Lake,32.0
+2007-12-31,Los Angeles,81.0
+2007-12-31,Marin,30.0
+2007-12-31,Mendocino,31.0
+2007-12-31,Mono,16.5
+2007-12-31,Monterey,35.0
+2007-12-31,Orange,53.0
+2007-12-31,Placer,54.0
+2007-12-31,Riverside,101.0
+2007-12-31,Sacramento,60.0
+2007-12-31,San Benito,43.0
+2007-12-31,San Bernardino,90.0
+2007-12-31,San Diego,67.0
+2007-12-31,San Francisco,38.0
+2007-12-31,San Joaquin,48.0
+2007-12-31,San Luis Obispo,49.0
+2007-12-31,San Mateo,38.0
+2007-12-31,Santa Barbara,48.0
+2007-12-31,Santa Clara,44.0
+2007-12-31,Santa Cruz,34.0
+2007-12-31,Shasta,44.0
+2007-12-31,Siskiyou,32.0
+2007-12-31,Solano,45.0
+2007-12-31,Sonoma,35.0
+2007-12-31,Stanislaus,56.0
+2007-12-31,Sutter,48.0
+2007-12-31,Tulare,100.0
+2007-12-31,Ventura,51.0
+2007-12-31,Yolo,43.0
+2008-12-31,Alameda,51.0
+2008-12-31,Butte,52.0
+2008-12-31,Colusa,47.0
+2008-12-31,Contra Costa,42.0
+2008-12-31,El Dorado,47.0
+2008-12-31,Fresno,84.0
+2008-12-31,Glenn,46.0
+2008-12-31,Imperial,52.5
+2008-12-31,Kern,107.0
+2008-12-31,Kings,80.0
+2008-12-31,Lake,34.0
+2008-12-31,Los Angeles,84.0
+2008-12-31,Marin,31.0
+2008-12-31,Mendocino,31.0
+2008-12-31,Mono,20.0
+2008-12-31,Monterey,36.0
+2008-12-31,Orange,64.5
+2008-12-31,Placer,54.0
+2008-12-31,Riverside,90.5
+2008-12-31,Sacramento,61.0
+2008-12-31,San Benito,45.0
+2008-12-31,San Bernardino,84.0
+2008-12-31,San Diego,72.0
+2008-12-31,San Francisco,44.0
+2008-12-31,San Joaquin,49.0
+2008-12-31,San Luis Obispo,51.0
+2008-12-31,San Mateo,40.0
+2008-12-31,Santa Barbara,47.0
+2008-12-31,Santa Clara,51.0
+2008-12-31,Santa Cruz,36.0
+2008-12-31,Shasta,45.0
+2008-12-31,Siskiyou,34.0
+2008-12-31,Solano,52.0
+2008-12-31,Sonoma,37.0
+2008-12-31,Stanislaus,63.5
+2008-12-31,Sutter,51.0
+2008-12-31,Tulare,97.0
+2008-12-31,Ventura,50.0
+2008-12-31,Yolo,44.0
+2009-12-31,Alameda,49.0
+2009-12-31,Butte,50.0
+2009-12-31,Colusa,44.0
+2009-12-31,Contra Costa,40.0
+2009-12-31,El Dorado,43.5
+2009-12-31,Fresno,77.0
+2009-12-31,Glenn,42.0
+2009-12-31,Imperial,55.0
+2009-12-31,Kern,96.0
+2009-12-31,Kings,71.0
+2009-12-31,Lake,33.5
+2009-12-31,Los Angeles,79.0
+2009-12-31,Marin,31.0
+2009-12-31,Mendocino,54.0
+2009-12-31,Mono,17.0
+2009-12-31,Monterey,33.0
+2009-12-31,Orange,57.0
+2009-12-31,Placer,52.0
+2009-12-31,Riverside,87.0
+2009-12-31,Sacramento,54.0
+2009-12-31,San Benito,41.0
+2009-12-31,San Bernardino,84.0
+2009-12-31,San Diego,67.0
+2009-12-31,San Francisco,48.0
+2009-12-31,San Joaquin,44.0
+2009-12-31,San Luis Obispo,52.0
+2009-12-31,San Mateo,40.0
+2009-12-31,Santa Barbara,45.0
+2009-12-31,Santa Clara,43.0
+2009-12-31,Santa Cruz,31.0
+2009-12-31,Shasta,44.0
+2009-12-31,Siskiyou,31.0
+2009-12-31,Solano,40.0
+2009-12-31,Sonoma,33.0
+2009-12-31,Stanislaus,58.0
+2009-12-31,Sutter,48.0
+2009-12-31,Tulare,84.0
+2009-12-31,Ventura,49.0
+2009-12-31,Yolo,43.0
+2010-12-31,Alameda,43.0
+2010-12-31,Butte,47.0
+2010-12-31,Colusa,38.0
+2010-12-31,Contra Costa,39.0
+2010-12-31,El Dorado,42.0
+2010-12-31,Fresno,70.0
+2010-12-31,Glenn,42.0
+2010-12-31,Imperial,53.0
+2010-12-31,Kern,79.0
+2010-12-31,Kings,70.0
+2010-12-31,Lake,35.0
+2010-12-31,Los Angeles,76.0
+2010-12-31,Marin,38.0
+2010-12-31,Mendocino,34.0
+2010-12-31,Mono,18.0
+2010-12-31,Monterey,36.0
+2010-12-31,Orange,56.0
+2010-12-31,Placer,50.0
+2010-12-31,Riverside,87.0
+2010-12-31,Sacramento,49.0
+2010-12-31,San Benito,40.0
+2010-12-31,San Bernardino,81.0
+2010-12-31,San Diego,61.0
+2010-12-31,San Francisco,40.0
+2010-12-31,San Joaquin,45.0
+2010-12-31,San Luis Obispo,51.0
+2010-12-31,San Mateo,35.0
+2010-12-31,Santa Barbara,44.0
+2010-12-31,Santa Clara,42.0
+2010-12-31,Santa Cruz,34.0
+2010-12-31,Shasta,43.0
+2010-12-31,Siskiyou,33.0
+2010-12-31,Solano,39.0
+2010-12-31,Sonoma,32.0
+2010-12-31,Stanislaus,53.0
+2010-12-31,Sutter,44.0
+2010-12-31,Tulare,69.0
+2010-12-31,Ventura,47.0
+2010-12-31,Yolo,38.0
+2011-12-31,Alameda,44.0
+2011-12-31,Butte,55.0
+2011-12-31,Colusa,43.0
+2011-12-31,Contra Costa,39.0
+2011-12-31,El Dorado,42.0
+2011-12-31,Fresno,80.0
+2011-12-31,Glenn,44.0
+2011-12-31,Imperial,49.0
+2011-12-31,Kern,84.0
+2011-12-31,Kings,71.0
+2011-12-31,Lake,34.0
+2011-12-31,Los Angeles,80.0
+2011-12-31,Marin,39.0
+2011-12-31,Mendocino,39.0
+2011-12-31,Mono,16.0
+2011-12-31,Monterey,37.0
+2011-12-31,Orange,58.0
+2011-12-31,Placer,52.0
+2011-12-31,Riverside,92.0
+2011-12-31,Sacramento,55.0
+2011-12-31,San Benito,41.0
+2011-12-31,San Bernardino,84.0
+2011-12-31,San Diego,63.0
+2011-12-31,San Francisco,41.0
+2011-12-31,San Joaquin,53.0
+2011-12-31,San Luis Obispo,56.0
+2011-12-31,San Mateo,38.0
+2011-12-31,Santa Barbara,49.0
+2011-12-31,Santa Clara,50.0
+2011-12-31,Santa Cruz,36.0
+2011-12-31,Shasta,44.0
+2011-12-31,Siskiyou,37.0
+2011-12-31,Solano,43.0
+2011-12-31,Sonoma,35.0
+2011-12-31,Stanislaus,64.0
+2011-12-31,Sutter,54.0
+2011-12-31,Tulare,84.0
+2011-12-31,Ventura,47.0
+2011-12-31,Yolo,50.0
+2012-12-31,Alameda,41.0
+2012-12-31,Butte,53.0
+2012-12-31,Colusa,49.0
+2012-12-31,Contra Costa,39.0
+2012-12-31,El Dorado,45.0
+2012-12-31,Fresno,80.0
+2012-12-31,Glenn,43.0
+2012-12-31,Imperial,51.5
+2012-12-31,Kern,84.0
+2012-12-31,Kings,66.0
+2012-12-31,Lake,35.0
+2012-12-31,Los Angeles,83.0
+2012-12-31,Marin,35.0
+2012-12-31,Mendocino,33.0
+2012-12-31,Mono,17.0
+2012-12-31,Monterey,37.0
+2012-12-31,Orange,55.0
+2012-12-31,Placer,49.0
+2012-12-31,Riverside,94.0
+2012-12-31,Sacramento,51.5
+2012-12-31,San Benito,41.0
+2012-12-31,San Bernardino,89.5
+2012-12-31,San Diego,64.0
+2012-12-31,San Francisco,36.0
+2012-12-31,San Joaquin,55.5
+2012-12-31,San Luis Obispo,53.0
+2012-12-31,San Mateo,36.0
+2012-12-31,Santa Barbara,47.0
+2012-12-31,Santa Clara,44.5
+2012-12-31,Santa Cruz,34.0
+2012-12-31,Shasta,44.0
+2012-12-31,Siskiyou,37.0
+2012-12-31,Solano,41.0
+2012-12-31,Sonoma,37.0
+2012-12-31,Stanislaus,62.0
+2012-12-31,Sutter,48.0
+2012-12-31,Tulare,80.0
+2012-12-31,Ventura,54.0
+2012-12-31,Yolo,44.0
+2013-12-31,Alameda,50.0
+2013-12-31,Butte,54.0
+2013-12-31,Colusa,41.0
+2013-12-31,Contra Costa,46.0
+2013-12-31,El Dorado,45.0
+2013-12-31,Fresno,87.0
+2013-12-31,Glenn,44.0
+2013-12-31,Imperial,56.0
+2013-12-31,Kern,89.0
+2013-12-31,Kings,77.0
+2013-12-31,Lake,33.0
+2013-12-31,Los Angeles,77.0
+2013-12-31,Marin,40.0
+2013-12-31,Mendocino,28.0
+2013-12-31,Mono,19.0
+2013-12-31,Monterey,38.0
+2013-12-31,Orange,53.0
+2013-12-31,Placer,51.0
+2013-12-31,Riverside,87.0
+2013-12-31,Sacramento,54.0
+2013-12-31,San Benito,43.0
+2013-12-31,San Bernardino,84.0
+2013-12-31,San Diego,66.0
+2013-12-31,San Francisco,38.0
+2013-12-31,San Joaquin,57.0
+2013-12-31,San Luis Obispo,59.0
+2013-12-31,San Mateo,38.0
+2013-12-31,Santa Barbara,46.0
+2013-12-31,Santa Clara,48.0
+2013-12-31,Santa Cruz,38.0
+2013-12-31,Shasta,42.0
+2013-12-31,Siskiyou,37.0
+2013-12-31,Solano,44.0
+2013-12-31,Sonoma,36.0
+2013-12-31,Stanislaus,61.0
+2013-12-31,Sutter,48.0
+2013-12-31,Tulare,84.0
+2013-12-31,Ventura,51.0
+2013-12-31,Yolo,41.0
+2014-12-31,Alameda,43.0
+2014-12-31,Butte,52.0
+2014-12-31,Colusa,44.0
+2014-12-31,Contra Costa,45.0
+2014-12-31,El Dorado,45.0
+2014-12-31,Fresno,81.0
+2014-12-31,Glenn,41.0
+2014-12-31,Imperial,67.0
+2014-12-31,Kern,97.0
+2014-12-31,Kings,71.0
+2014-12-31,Lake,37.0
+2014-12-31,Los Angeles,80.0
+2014-12-31,Marin,43.0
+2014-12-31,Mendocino,38.0
+2014-12-31,Mono,15.0
+2014-12-31,Monterey,37.0
+2014-12-31,Orange,59.0
+2014-12-31,Placer,52.0
+2014-12-31,Riverside,93.0
+2014-12-31,Sacramento,51.0
+2014-12-31,San Benito,42.0
+2014-12-31,San Bernardino,80.0
+2014-12-31,San Diego,61.0
+2014-12-31,San Francisco,34.0
+2014-12-31,San Joaquin,54.0
+2014-12-31,San Luis Obispo,55.0
+2014-12-31,San Mateo,34.0
+2014-12-31,Santa Barbara,47.0
+2014-12-31,Santa Clara,41.0
+2014-12-31,Santa Cruz,35.0
+2014-12-31,Shasta,43.0
+2014-12-31,Siskiyou,37.0
+2014-12-31,Solano,43.0
+2014-12-31,Sonoma,37.0
+2014-12-31,Stanislaus,58.0
+2014-12-31,Sutter,51.0
+2014-12-31,Tulare,84.0
+2014-12-31,Ventura,53.0
+2014-12-31,Yolo,41.0
+2015-12-31,Alameda,46.0
+2015-12-31,Butte,52.0
+2015-12-31,Colusa,46.0
+2015-12-31,Contra Costa,44.0
+2015-12-31,El Dorado,44.0
+2015-12-31,Fresno,80.0
+2015-12-31,Glenn,44.0
+2015-12-31,Imperial,63.0
+2015-12-31,Kern,84.0
+2015-12-31,Kings,71.0
+2015-12-31,Lake,36.0
+2015-12-31,Los Angeles,79.0
+2015-12-31,Marin,36.0
+2015-12-31,Mendocino,38.0
+2015-12-31,Mono,14.0
+2015-12-31,Monterey,37.0
+2015-12-31,Orange,56.0
+2015-12-31,Placer,45.0
+2015-12-31,Riverside,87.0
+2015-12-31,Sacramento,54.0
+2015-12-31,San Benito,39.0
+2015-12-31,San Bernardino,83.0
+2015-12-31,San Diego,61.0
+2015-12-31,San Francisco,35.0
+2015-12-31,San Joaquin,56.0
+2015-12-31,San Luis Obispo,53.0
+2015-12-31,San Mateo,32.0
+2015-12-31,Santa Barbara,45.0
+2015-12-31,Santa Clara,43.0
+2015-12-31,Santa Cruz,35.0
+2015-12-31,Shasta,44.0
+2015-12-31,Siskiyou,36.0
+2015-12-31,Solano,44.0
+2015-12-31,Sonoma,35.0
+2015-12-31,Stanislaus,59.0
+2015-12-31,Sutter,49.0
+2015-12-31,Tulare,78.0
+2015-12-31,Ventura,50.0
+2015-12-31,Yolo,44.0
+2016-12-31,Alameda,44.0
+2016-12-31,Butte,52.0
+2016-12-31,Colusa,43.0
+2016-12-31,Contra Costa,40.0
+2016-12-31,El Dorado,45.0
+2016-12-31,Fresno,74.0
+2016-12-31,Glenn,43.0
+2016-12-31,Imperial,60.0
+2016-12-31,Kern,80.0
+2016-12-31,Kings,70.0
+2016-12-31,Lake,33.0
+2016-12-31,Los Angeles,75.0
+2016-12-31,Marin,32.0
+2016-12-31,Mendocino,33.0
+2016-12-31,Mono,17.5
+2016-12-31,Monterey,35.5
+2016-12-31,Orange,54.0
+2016-12-31,Placer,44.0
+2016-12-31,Riverside,82.0
+2016-12-31,Sacramento,49.0
+2016-12-31,San Benito,38.5
+2016-12-31,San Bernardino,82.5
+2016-12-31,San Diego,66.0
+2016-12-31,San Francisco,36.0
+2016-12-31,San Joaquin,55.0
+2016-12-31,San Luis Obispo,51.0
+2016-12-31,San Mateo,37.0
+2016-12-31,Santa Barbara,44.0
+2016-12-31,Santa Clara,40.0
+2016-12-31,Santa Cruz,32.0
+2016-12-31,Shasta,41.0
+2016-12-31,Siskiyou,26.5
+2016-12-31,Solano,40.0
+2016-12-31,Sonoma,32.0
+2016-12-31,Stanislaus,55.0
+2016-12-31,Sutter,52.5
+2016-12-31,Tulare,77.0
+2016-12-31,Ventura,51.0
+2016-12-31,Yolo,40.0
+2017-12-31,Alameda,49.0
+2017-12-31,Butte,57.0
+2017-12-31,Colusa,40.0
+2017-12-31,Contra Costa,46.0
+2017-12-31,El Dorado,45.0
+2017-12-31,Fresno,74.0
+2017-12-31,Glenn,43.0
+2017-12-31,Imperial,61.0
+2017-12-31,Kern,84.0
+2017-12-31,Kings,70.0
+2017-12-31,Lake,35.0
+2017-12-31,Los Angeles,77.0
+2017-12-31,Marin,38.0
+2017-12-31,Mendocino,39.0
+2017-12-31,Mono,18.0
+2017-12-31,Monterey,39.0
+2017-12-31,Orange,54.0
+2017-12-31,Placer,43.0
+2017-12-31,Riverside,87.0
+2017-12-31,Sacramento,56.0
+2017-12-31,San Benito,40.0
+2017-12-31,San Bernardino,84.0
+2017-12-31,San Diego,65.0
+2017-12-31,San Francisco,38.0
+2017-12-31,San Joaquin,50.0
+2017-12-31,San Luis Obispo,54.0
+2017-12-31,San Mateo,37.0
+2017-12-31,Santa Barbara,44.0
+2017-12-31,Santa Clara,44.0
+2017-12-31,Santa Cruz,35.0
+2017-12-31,Shasta,44.0
+2017-12-31,Siskiyou,26.0
+2017-12-31,Solano,44.0
+2017-12-31,Sonoma,38.0
+2017-12-31,Stanislaus,58.0
+2017-12-31,Sutter,51.0
+2017-12-31,Tulare,80.0
+2017-12-31,Ventura,53.0
+2017-12-31,Yolo,43.0
+2018-12-31,Alameda,51.0
+2018-12-31,Butte,54.0
+2018-12-31,Colusa,42.0
+2018-12-31,Contra Costa,48.0
+2018-12-31,El Dorado,45.0
+2018-12-31,Fresno,74.0
+2018-12-31,Glenn,36.0
+2018-12-31,Imperial,62.0
+2018-12-31,Kern,84.0
+2018-12-31,Kings,69.0
+2018-12-31,Lake,33.0
+2018-12-31,Los Angeles,77.0
+2018-12-31,Marin,36.0
+2018-12-31,Mendocino,37.0
+2018-12-31,Mono,23.0
+2018-12-31,Monterey,38.0
+2018-12-31,Orange,50.0
+2018-12-31,Placer,41.0
+2018-12-31,Riverside,87.0
+2018-12-31,Sacramento,54.0
+2018-12-31,San Benito,41.0
+2018-12-31,San Bernardino,88.0
+2018-12-31,San Diego,64.0
+2018-12-31,San Francisco,37.0
+2018-12-31,San Joaquin,54.0
+2018-12-31,San Luis Obispo,49.0
+2018-12-31,San Mateo,36.0
+2018-12-31,Santa Barbara,47.0
+2018-12-31,Santa Clara,44.0
+2018-12-31,Santa Cruz,36.0
+2018-12-31,Shasta,43.0
+2018-12-31,Siskiyou,41.0
+2018-12-31,Solano,42.0
+2018-12-31,Sonoma,36.0
+2018-12-31,Stanislaus,54.0
+2018-12-31,Sutter,54.0
+2018-12-31,Tulare,77.0
+2018-12-31,Ventura,52.0
+2018-12-31,Yolo,43.0
+2019-12-31,Alameda,41.0
+2019-12-31,Butte,46.0
+2019-12-31,Colusa,39.0
+2019-12-31,Contra Costa,40.0
+2019-12-31,El Dorado,43.0
+2019-12-31,Fresno,60.0
+2019-12-31,Glenn,40.0
+2019-12-31,Imperial,58.0
+2019-12-31,Kern,67.0
+2019-12-31,Kings,56.0
+2019-12-31,Lake,31.0
+2019-12-31,Los Angeles,71.0
+2019-12-31,Marin,33.0
+2019-12-31,Mendocino,33.0
+2019-12-31,Mono,27.0
+2019-12-31,Monterey,37.0
+2019-12-31,Orange,48.0
+2019-12-31,Placer,45.0
+2019-12-31,Riverside,77.0
+2019-12-31,Sacramento,46.0
+2019-12-31,San Benito,38.0
+2019-12-31,San Bernardino,80.0
+2019-12-31,San Diego,64.0
+2019-12-31,San Francisco,36.0
+2019-12-31,San Joaquin,44.0
+2019-12-31,San Luis Obispo,46.0
+2019-12-31,San Mateo,35.0
+2019-12-31,Santa Barbara,43.0
+2019-12-31,Santa Clara,41.0
+2019-12-31,Santa Cruz,35.0
+2019-12-31,Shasta,42.0
+2019-12-31,Siskiyou,36.0
+2019-12-31,Solano,40.0
+2019-12-31,Sonoma,33.0
+2019-12-31,Stanislaus,49.0
+2019-12-31,Sutter,44.0
+2019-12-31,Tulare,66.0
+2019-12-31,Ventura,46.0
+2019-12-31,Yolo,41.0
+2020-12-31,Alameda,43.0
+2020-12-31,Butte,50.5
+2020-12-31,Colusa,38.0
+2020-12-31,Contra Costa,41.0
+2020-12-31,El Dorado,43.0
+2020-12-31,Fresno,74.0
+2020-12-31,Glenn,42.5
+2020-12-31,Imperial,58.0
+2020-12-31,Kern,81.0
+2020-12-31,Kings,67.0
+2020-12-31,Lake,32.0
+2020-12-31,Los Angeles,83.0
+2020-12-31,Marin,33.0
+2020-12-31,Mendocino,34.0
+2020-12-31,Mono,39.5
+2020-12-31,Monterey,36.0
+2020-12-31,Orange,51.0
+2020-12-31,Placer,54.0
+2020-12-31,Riverside,87.0
+2020-12-31,Sacramento,51.5
+2020-12-31,San Benito,39.0
+2020-12-31,San Bernardino,93.0
+2020-12-31,San Diego,71.0
+2020-12-31,San Francisco,36.0
+2020-12-31,San Joaquin,48.0
+2020-12-31,San Luis Obispo,48.0
+2020-12-31,San Mateo,35.0
+2020-12-31,Santa Barbara,42.0
+2020-12-31,Santa Clara,43.5
+2020-12-31,Santa Cruz,34.0
+2020-12-31,Shasta,41.0
+2020-12-31,Siskiyou,36.0
+2020-12-31,Solano,41.0
+2020-12-31,Sonoma,33.0
+2020-12-31,Stanislaus,55.0
+2020-12-31,Sutter,48.0
+2020-12-31,Tulare,78.5
+2020-12-31,Ventura,47.0
+2020-12-31,Yolo,41.5
+2021-12-31,Alameda,45.0
+2021-12-31,Butte,48.0
+2021-12-31,Colusa,46.0
+2021-12-31,Contra Costa,42.0
+2021-12-31,El Dorado,43.0
+2021-12-31,Fresno,67.0
+2021-12-31,Glenn,39.0
+2021-12-31,Imperial,58.0
+2021-12-31,Kern,84.0
+2021-12-31,Kings,61.0
+2021-12-31,Lake,33.0
+2021-12-31,Los Angeles,77.0
+2021-12-31,Marin,34.0
+2021-12-31,Mendocino,38.0
+2021-12-31,Mono,21.0
+2021-12-31,Monterey,37.0
+2021-12-31,Orange,49.0
+2021-12-31,Placer,54.0
+2021-12-31,Riverside,87.0
+2021-12-31,Sacramento,50.0
+2021-12-31,San Benito,40.0
+2021-12-31,San Bernardino,87.0
+2021-12-31,San Diego,64.0
+2021-12-31,San Francisco,36.0
+2021-12-31,San Joaquin,51.0
+2021-12-31,San Luis Obispo,48.0
+2021-12-31,San Mateo,33.0
+2021-12-31,Santa Barbara,41.0
+2021-12-31,Santa Clara,44.0
+2021-12-31,Santa Cruz,34.0
+2021-12-31,Shasta,45.0
+2021-12-31,Siskiyou,40.0
+2021-12-31,Solano,40.0
+2021-12-31,Sonoma,33.0
+2021-12-31,Stanislaus,58.0
+2021-12-31,Sutter,54.0
+2021-12-31,Tulare,80.0
+2021-12-31,Ventura,48.0
+2021-12-31,Yolo,39.0
+2022-12-31,Alameda,41.0
+2022-12-31,Butte,44.0
+2022-12-31,Colusa,41.0
+2022-12-31,Contra Costa,43.0
+2022-12-31,El Dorado,44.0
+2022-12-31,Fresno,62.0
+2022-12-31,Glenn,41.0
+2022-12-31,Imperial,60.0
+2022-12-31,Kern,61.0
+2022-12-31,Kings,60.0
+2022-12-31,Lake,16.0
+2022-12-31,Los Angeles,77.0
+2022-12-31,Marin,33.0
+2022-12-31,Mendocino,56.0
+2022-12-31,Mono,21.0
+2022-12-31,Monterey,37.5
+2022-12-31,Orange,48.0
+2022-12-31,Placer,51.0
+2022-12-31,Riverside,87.0
+2022-12-31,Sacramento,41.0
+2022-12-31,San Benito,42.0
+2022-12-31,San Bernardino,80.0
+2022-12-31,San Diego,54.0
+2022-12-31,San Francisco,33.0
+2022-12-31,San Joaquin,43.0
+2022-12-31,San Luis Obispo,54.0
+2022-12-31,San Mateo,33.0
+2022-12-31,Santa Barbara,43.0
+2022-12-31,Santa Clara,44.0
+2022-12-31,Santa Cruz,33.0
+2022-12-31,Shasta,45.0
+2022-12-31,Siskiyou,5.0
+2022-12-31,Solano,40.0
+2022-12-31,Sonoma,31.0
+2022-12-31,Stanislaus,53.0
+2022-12-31,Sutter,47.0
+2022-12-31,Tulare,77.0
+2022-12-31,Ventura,49.0
+2022-12-31,Yolo,41.0
+2023-12-31,Alameda,43.0
+2024-12-31,Alameda,43.0
+2025-12-31,Alameda,44.0
+2026-12-31,Alameda,44.0
+2027-12-31,Alameda,44.0
+2023-12-31,Butte,46.0
+2024-12-31,Butte,46.0
+2025-12-31,Butte,46.0
+2026-12-31,Butte,47.0
+2027-12-31,Butte,46.0
+2023-12-31,Colusa,43.0
+2024-12-31,Colusa,43.0
+2025-12-31,Colusa,44.0
+2026-12-31,Colusa,45.0
+2027-12-31,Colusa,44.0
+2023-12-31,Contra Costa,43.0
+2024-12-31,Contra Costa,43.0
+2025-12-31,Contra Costa,44.0
+2026-12-31,Contra Costa,44.0
+2027-12-31,Contra Costa,44.0
+2023-12-31,El Dorado,44.0
+2024-12-31,El Dorado,44.0
+2025-12-31,El Dorado,45.0
+2026-12-31,El Dorado,45.0
+2027-12-31,El Dorado,45.0
+2023-12-31,Fresno,63.0
+2024-12-31,Fresno,63.0
+2025-12-31,Fresno,63.0
+2026-12-31,Fresno,63.0
+2027-12-31,Fresno,62.0
+2023-12-31,Glenn,41.0
+2024-12-31,Glenn,41.0
+2025-12-31,Glenn,42.0
+2026-12-31,Glenn,42.0
+2027-12-31,Glenn,42.0
+2023-12-31,Imperial,59.0
+2024-12-31,Imperial,59.0
+2025-12-31,Imperial,59.0
+2026-12-31,Imperial,59.0
+2027-12-31,Imperial,58.0
+2023-12-31,Kern,66.0
+2024-12-31,Kern,69.0
+2025-12-31,Kern,68.0
+2026-12-31,Kern,68.0
+2027-12-31,Kern,67.0
+2023-12-31,Kings,60.0
+2024-12-31,Kings,59.0
+2025-12-31,Kings,60.0
+2026-12-31,Kings,60.0
+2027-12-31,Kings,59.0
+2023-12-31,Lake,21.0
+2024-12-31,Lake,25.0
+2025-12-31,Lake,25.0
+2026-12-31,Lake,27.0
+2027-12-31,Lake,27.0
+2023-12-31,Los Angeles,76.0
+2024-12-31,Los Angeles,75.0
+2025-12-31,Los Angeles,75.0
+2026-12-31,Los Angeles,74.0
+2027-12-31,Los Angeles,73.0
+2023-12-31,Marin,34.0
+2024-12-31,Marin,35.0
+2025-12-31,Marin,36.0
+2026-12-31,Marin,36.0
+2027-12-31,Marin,36.0
+2023-12-31,Mendocino,54.0
+2024-12-31,Mendocino,55.0
+2025-12-31,Mendocino,55.0
+2026-12-31,Mendocino,55.0
+2027-12-31,Mendocino,54.0
+2023-12-31,Mono,23.0
+2024-12-31,Mono,23.0
+2025-12-31,Mono,25.0
+2026-12-31,Mono,26.0
+2027-12-31,Mono,26.0
+2023-12-31,Monterey,38.0
+2024-12-31,Monterey,38.0
+2025-12-31,Monterey,39.0
+2026-12-31,Monterey,40.0
+2027-12-31,Monterey,40.0
+2023-12-31,Orange,49.0
+2024-12-31,Orange,48.0
+2025-12-31,Orange,49.0
+2026-12-31,Orange,49.0
+2027-12-31,Orange,49.0
+2023-12-31,Placer,52.0
+2024-12-31,Placer,52.0
+2025-12-31,Placer,52.0
+2026-12-31,Placer,53.0
+2027-12-31,Placer,52.0
+2023-12-31,Riverside,86.0
+2024-12-31,Riverside,84.0
+2025-12-31,Riverside,84.0
+2026-12-31,Riverside,83.0
+2027-12-31,Riverside,81.0
+2023-12-31,Sacramento,44.0
+2024-12-31,Sacramento,45.0
+2025-12-31,Sacramento,46.0
+2026-12-31,Sacramento,46.0
+2027-12-31,Sacramento,46.0
+2023-12-31,San Benito,42.0
+2024-12-31,San Benito,42.0
+2025-12-31,San Benito,43.0
+2026-12-31,San Benito,43.0
+2027-12-31,San Benito,43.0
+2023-12-31,San Bernardino,81.0
+2024-12-31,San Bernardino,80.0
+2025-12-31,San Bernardino,80.0
+2026-12-31,San Bernardino,79.0
+2027-12-31,San Bernardino,77.0
+2023-12-31,San Diego,57.0
+2024-12-31,San Diego,57.0
+2025-12-31,San Diego,57.0
+2026-12-31,San Diego,58.0
+2027-12-31,San Diego,57.0
+2023-12-31,San Francisco,35.0
+2024-12-31,San Francisco,35.0
+2025-12-31,San Francisco,36.0
+2026-12-31,San Francisco,37.0
+2027-12-31,San Francisco,37.0
+2023-12-31,San Joaquin,46.0
+2024-12-31,San Joaquin,47.0
+2025-12-31,San Joaquin,47.0
+2026-12-31,San Joaquin,47.0
+2027-12-31,San Joaquin,47.0
+2023-12-31,San Luis Obispo,53.0
+2024-12-31,San Luis Obispo,52.0
+2025-12-31,San Luis Obispo,53.0
+2026-12-31,San Luis Obispo,53.0
+2027-12-31,San Luis Obispo,52.0
+2023-12-31,San Mateo,34.0
+2024-12-31,San Mateo,34.0
+2025-12-31,San Mateo,35.0
+2026-12-31,San Mateo,36.0
+2027-12-31,San Mateo,36.0
+2023-12-31,Santa Barbara,43.0
+2024-12-31,Santa Barbara,43.0
+2025-12-31,Santa Barbara,44.0
+2026-12-31,Santa Barbara,44.0
+2027-12-31,Santa Barbara,44.0
+2023-12-31,Santa Clara,45.0
+2024-12-31,Santa Clara,44.0
+2025-12-31,Santa Clara,45.0
+2026-12-31,Santa Clara,46.0
+2027-12-31,Santa Clara,45.0
+2023-12-31,Santa Cruz,34.0
+2024-12-31,Santa Cruz,35.0
+2025-12-31,Santa Cruz,36.0
+2026-12-31,Santa Cruz,36.0
+2027-12-31,Santa Cruz,36.0
+2023-12-31,Shasta,46.0
+2024-12-31,Shasta,45.0
+2025-12-31,Shasta,46.0
+2026-12-31,Shasta,46.0
+2027-12-31,Shasta,46.0
+2023-12-31,Siskiyou,14.0
+2024-12-31,Siskiyou,19.0
+2025-12-31,Siskiyou,20.0
+2026-12-31,Siskiyou,21.0
+2027-12-31,Siskiyou,22.0
+2023-12-31,Solano,41.0
+2024-12-31,Solano,41.0
+2025-12-31,Solano,42.0
+2026-12-31,Solano,42.0
+2027-12-31,Solano,42.0
+2023-12-31,Sonoma,33.0
+2024-12-31,Sonoma,33.0
+2025-12-31,Sonoma,34.0
+2026-12-31,Sonoma,35.0
+2027-12-31,Sonoma,35.0
+2023-12-31,Stanislaus,55.0
+2024-12-31,Stanislaus,54.0
+2025-12-31,Stanislaus,55.0
+2026-12-31,Stanislaus,55.0
+2027-12-31,Stanislaus,54.0
+2023-12-31,Sutter,49.0
+2024-12-31,Sutter,50.0
+2025-12-31,Sutter,50.0
+2026-12-31,Sutter,51.0
+2027-12-31,Sutter,50.0
+2023-12-31,Tulare,77.0
+2024-12-31,Tulare,76.0
+2025-12-31,Tulare,76.0
+2026-12-31,Tulare,75.0
+2027-12-31,Tulare,74.0
+2023-12-31,Ventura,49.0
+2024-12-31,Ventura,49.0
+2025-12-31,Ventura,49.0
+2026-12-31,Ventura,50.0
+2027-12-31,Ventura,49.0
+2023-12-31,Yolo,41.0
+2024-12-31,Yolo,41.0
+2025-12-31,Yolo,42.0
+2026-12-31,Yolo,42.0
+2027-12-31,Yolo,42.0
